@@ -1,3 +1,32 @@
 .header {
-  background-color:blue;
+  background-color:black;
+  text-align: center;
+  color:white;
+  padding-top:150px;
+  padding-bottom:150px;
+
+
+}
+.tagline {
+  background-color: tan;
+  margin-top:-20px;
+  padding-top:100px;
+  padding-bottom:100px;
+
+
+
+}
+.skills {
+background-color: pink;
+padding-top:100px;
+padding-bottom:100px;
+}
+
+ul {
+  display:inline-block;
+  text-align:left;
+}
+
+div {
+  text-align:center;
 }
